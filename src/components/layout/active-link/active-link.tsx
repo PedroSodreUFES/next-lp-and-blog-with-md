@@ -1,5 +1,5 @@
 import Link, { LinkProps } from "next/link";
-import { cn } from "../../lib/utils";
+import { cn } from "../../../lib/utils";
 import { useRouter } from "next/router";
 
 type ActiveLinkProps = {
